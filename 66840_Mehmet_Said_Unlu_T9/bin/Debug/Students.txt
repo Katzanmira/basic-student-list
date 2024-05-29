@@ -1,0 +1,18 @@
+Class: OOP
+Name: Mehmet Said
+LastName: Unlu
+StudentID: 66840
+
+Name: Talha Omer
+LastName: Coskun
+StudentID: 69851
+
+Name: Mesut
+LastName: Aydogdu
+StudentID: 15763
+
+Class: Internet technology
+Name: Niran
+LastName: Girente
+StudentID: 25741
+
